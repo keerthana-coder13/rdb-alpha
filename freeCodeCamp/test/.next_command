@@ -64,3 +64,4 @@ cd /project/freeCodeCamp
 pwd
 cd /workspace/project/freeCodeCamp
 ls --color=auto
+more package.json
