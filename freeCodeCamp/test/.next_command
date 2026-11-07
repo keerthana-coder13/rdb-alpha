@@ -154,3 +154,5 @@ cd images
 ls --color=auto
 pwd
 cd ..
+pwd
+ls --color=auto
