@@ -156,3 +156,5 @@ pwd
 cd ..
 pwd
 ls --color=auto
+rm backgroud.jpg
+rm background.jpg
