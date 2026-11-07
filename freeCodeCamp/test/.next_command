@@ -91,3 +91,4 @@ cd has
 ls --color=auto
 src
 cd src
+pwd
