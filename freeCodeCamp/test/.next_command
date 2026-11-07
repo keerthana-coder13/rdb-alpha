@@ -150,3 +150,4 @@ ls --color=auto -ld images
 rm images
 mkdir images
 cp background.jpg images
+cd images
