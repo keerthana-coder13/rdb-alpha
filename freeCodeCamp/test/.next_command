@@ -160,3 +160,7 @@ rm backgroud.jpg
 rm background.jpg
 ls --color=auto
 cp header.png images
+cp footer images
+cp images
+ls --color=auto
+cp footer.jpeg images
