@@ -105,3 +105,8 @@ cd ..
 cd ../..
 ls --color=auto
 clear
+mkdir boilerplate
+mkdir project
+cd /workspace/project
+clear
+mkdir website
