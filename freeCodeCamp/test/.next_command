@@ -92,3 +92,5 @@ ls --color=auto
 src
 cd src
 pwd
+src
+ls --color=auto
