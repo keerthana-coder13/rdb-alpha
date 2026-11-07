@@ -141,3 +141,12 @@ cd images
 touch images
 mkdir images
 ls --color=auto
+cp background.jpg images
+cp background.jpg images
+ls --color=auto images
+cp background.jpg images
+ls --color=auto images/
+ls --color=auto -ld images
+rm images
+mkdir images
+cp background.jpg images
