@@ -52,3 +52,14 @@ test
 cd test
 pwd
 ls --color=auto
+cd..
+cd
+cd.
+cd ..
+cd freeCodeCamp
+cd..
+cd /projects/freeCodeCamp
+ls --color=auto
+cd /project/freeCodeCamp
+pwd
+cd /workspace/project/freeCodeCamp
