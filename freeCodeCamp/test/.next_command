@@ -97,3 +97,6 @@ ls --color=auto
 more
 more src
 more index.js
+cd has
+pwd
+cd ..
