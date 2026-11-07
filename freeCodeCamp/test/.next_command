@@ -110,3 +110,4 @@ mkdir project
 cd /workspace/project
 clear
 mkdir website
+ls --color=auto
