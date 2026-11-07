@@ -159,3 +159,4 @@ ls --color=auto
 rm backgroud.jpg
 rm background.jpg
 ls --color=auto
+cp header.png images
